@@ -10,9 +10,10 @@ I'm using Python/Flask for this project so if you want to start this project in 
 
 
 Starting the project for the first time:
+$ pip install -r requirements.txt
 $ virtualenv venv
 $ . venv/bin/activate
 $ flask run
 
-If you have a virtual enviorment:
+If you have a virtual enviorment and installed the libraries:
 $ flask run
