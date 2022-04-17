@@ -6,13 +6,10 @@ R - READ
 U - UPDATE
 D - DELETE
 
-I'm using Python/Flask for this project so if you want to start this project in your machine make sure you have Flask installed
-
-
 Starting the project for the first time:
-$ pip install -r requirements.txt
 $ virtualenv venv
 $ . venv/bin/activate
+$ pip install -r requirements.txt
 $ flask run
 
 If you have a virtual enviorment and installed the libraries:
